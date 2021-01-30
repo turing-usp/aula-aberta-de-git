@@ -9,4 +9,5 @@
 # Conteúdo
 - [Receitas](receitas)
   - [Brigadeiro](receitas/brigadeiro.md)
+  - [Pudim](receitas/pudim.md)
 - [Fatura](fatura.md)
